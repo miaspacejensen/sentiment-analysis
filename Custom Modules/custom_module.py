@@ -1,6 +1,5 @@
 import zipfile
 import pandas as pd
-from pathlib import Path
 import os
 
 def collect_zip(dir, folder, zip_folder, file_name):
